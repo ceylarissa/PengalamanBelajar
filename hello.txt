@@ -1,4 +1,2 @@
-@@ -1 +1,2 @@
-- hello world saja
-+ hello world saja
+hello w0rld
 mocha wrote this, she wants to be Tech Girl too
