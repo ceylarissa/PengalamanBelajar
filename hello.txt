@@ -1,3 +1,6 @@
 @@ -1 +1,2 @@
 - hello world saja
 + hello world saja
+
+Cat thingy:
+kaoskaki real name is Latte. Latte with a Socks
